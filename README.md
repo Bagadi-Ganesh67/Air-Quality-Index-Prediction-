@@ -49,7 +49,7 @@ Running the Project
 
 Clone the repository:
 
-git clone https://github.com/your-username/AQI_Prediction_Model.git
+git clone https://github.com/Bagadi-Ganesh67/Air-Quality-Index-Prediction-.git
 
 Navigate to the project directory:
 
@@ -70,7 +70,7 @@ Open http://127.0.0.1:5000/ in your browser.
 
 Bagadi Ganesh
 
-GitHuB:
+GitHuB: https://github.com/Bagadi-Ganesh67/Air-Quality-Index-Prediction-.git
 
 📜 License
 
