@@ -65,6 +65,21 @@ python web_app/app.py
 
 Open http://127.0.0.1:5000/ in your browser.
 
+📈 Results & Evaluation
+
+The best-performing model achieved:
+
+R² Score: 0.85
+
+RMSE: 12.4
+
+💡 Future Enhancements
+
+Improve feature selection techniques.
+
+Implement deep learning models for better accuracy.
+
+Deploy the model as an API or mobile application.
 
 👤AUTHOR:
 
