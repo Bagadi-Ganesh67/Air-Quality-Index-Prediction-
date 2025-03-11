@@ -12,3 +12,10 @@ Feature engineering and selection
 Machine learning model training (Regression/Classification)
 Model evaluation and optimization
 Web-based AQI prediction tool (Flask/Streamlit)
+
+🛠️ Tools & Technologies Used
+
+Programming Language: Python
+Libraries: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Flask
+Data Visualization: Matplotlib, Seaborn
+Deployment: Flask
