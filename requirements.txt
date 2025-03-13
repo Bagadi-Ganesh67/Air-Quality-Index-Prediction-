@@ -1,0 +1,17 @@
+# Core Libraries
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+
+# Model Saving & Loading
+joblib
+
+# Machine Learning & Data Processing
+scipy
+xgboost
+lightgbm
+
+# Testing & Development
+pytest
